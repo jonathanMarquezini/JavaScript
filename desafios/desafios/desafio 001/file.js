@@ -1,0 +1,1 @@
+var carro = {ano: 2000, modelo:"fiat", foradelinha: true, cor:["branco", "cinza", "preto"]};
