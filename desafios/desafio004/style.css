@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(7, 219, 120);
+    font-weight: normal;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 20pt;
+    text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.582);
+}
+section{
+    border-radius: 10px;
+    background-color: white;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.397);
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 15pt;
+    text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.582);
+}
+option{
+    padding: 5px;
+    padding-left: 10px;
+}
+#opt{
+    padding-top: 20px;
+}
+input{
+    margin-left: 3px;
+}
